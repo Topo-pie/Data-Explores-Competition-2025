@@ -1,1 +1,1 @@
-# Cu-c-thi-Data-Explores-2025
+Data Explores Competition 2025
