@@ -3,6 +3,7 @@
                     Ngành Kinh tế số - Khoa Toán Kinh tế - Trường Đại học Thương mại
 Bộ dữ liệu:
 Bộ dữ liệu gồm 6 bảng với các thông tin:
+
 a.	Khách hàng: 
 -	Mã KH: Mã số định danh của khách hàng.
 -	Khách hàng: Tên khách hàng.
